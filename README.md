@@ -53,6 +53,3 @@ bot.on('message', (msg) => {
 });
 ```
 
-_**Note**: Development is done against the **development** branch.
-Code for the latest release resides on the **master** branch.
-Experimental features reside on the **experimental** branch._
