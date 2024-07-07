@@ -23,8 +23,8 @@
     "pretest": "npm run build",
     "test": "npm run eslint && istanbul cover ./node_modules/mocha/bin/_mocha"
   },
-  "author": "Yago Pérez <yagoperezs@gmail.com>",
-  "license": "MIT",
+  "author": "",
+  "license": "",
   "engines": {
     "node": ">=0.12"
   },
@@ -66,10 +66,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yagop/node-telegram-bot-api.git"
+    "url": "https://github.com/RadinaAvramova/node-telegram-bot-api.git"
   },
   "bugs": {
-    "url": "https://github.com/yagop/node-telegram-bot-api/issues"
+    "url": "https://github.com/RadinaAvramova/node-telegram-bot-api/issues"
   },
-  "homepage": "https://github.com/yagop/node-telegram-bot-api"
+  "homepage": "https://github.com/RadinaAvramova/node-telegram-bot-api"
 }
